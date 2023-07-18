@@ -1,0 +1,33 @@
+[
+      {
+      "Chicken":{
+        "Category":"Non-Veg",
+        "Type":"North-Indian",
+        "Price":100,
+        "Rating":5,
+        "Image":"https://static.onecms.io/wp-content/uploads/sites/43/2022/05/26/8805-CrispyFriedChicken-mfs-3x2-072.jpg"
+      },
+      "Aloo Sabji":{
+        "Category":"Veg",
+        "Type":"North-Indian",
+        "Price":800,
+        "Rating":4,
+        "Image":"https://www.shellyfoodspot.com/wp-content/uploads/2020/08/punjabi-dry-aloo-sabzidry-potato-sabzi-recipe-without-onion-and-garlic-scaled.jpg"
+      },
+      "Dosa":{
+        "Category":"Veg",
+        "Type":"South-Indian",
+        "price":900,
+        "Rating":1,
+    "Image":"https://cdn.tasteatlas.com/Images/Dishes/ba7bab747c7e41769dbc895a84626a23.jpg?m=facebook"
+      },
+      "Momos":{
+        "Category":"Non-Veg",
+        "Type":"Chineese",
+        "Price":400,
+        "Rating":3,
+        "Image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuK2D_TrfbJ2bfbto2wUZD4jk8pQ8xz7wWFQ&usqp=CAU"
+      } 
+}
+  
+]
